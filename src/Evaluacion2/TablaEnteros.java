@@ -23,6 +23,7 @@ public class TablaEnteros {
 		this.tabla = tabla;
 	}
 
+
 	/**
 	 * @since 24/3/2023
 	 * @version 1.0
